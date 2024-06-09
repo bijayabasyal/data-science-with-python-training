@@ -7,8 +7,11 @@ Overview
 This repository serves as a comprehensive resource for learning data science using Python. It is designed to accompany the course offered by Data With Mala, providing practical assignments and exercises to reinforce key concepts.
 
 Repository Structure
+
 Assignments: Contains Jupyter notebooks with various assignments aimed at practicing data science techniques.
+
 License: Includes the MIT License, allowing for open-source usage and contributions.
+
 Contents
 Data Structure assignment.ipynb: A Jupyter notebook focused on Python data structures, designed to build foundational skills essential for data science.
 Getting Started
